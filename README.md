@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shalom
-- 👀 I’m interested in writing and coding
+-  I’m interested in writing and coding
 - 🌱 I’m currently learning in high school
 
 
