@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Shalom
--  I’m interested in writing and coding
-- 🌱 I’m currently learning in high school
-
+-  💫I’m interested in writing and coding
+  
 
 <!---
 Shalomasc/Shalomasc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
