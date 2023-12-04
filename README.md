@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Shalom
--  💫I’m interested in writing and coding
+
   
 
 <!---
